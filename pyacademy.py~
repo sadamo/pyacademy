@@ -1,7 +1,7 @@
 #coding: utf-8
 
 from academy.disciplina import Disciplina
-from academy.aluno import Aluno
+from academy.aluno import aluno
 from academy.docente import Docente
 
 
